@@ -33,6 +33,7 @@ gem 'simple_form', github: 'kesha-antonov/simple_form', ref: 'a1561c930f3be279f3
 gem 'devise', '~> 4.2'
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.6'
 gem 'paperclip', '~> 5.0'
+gem 'masonry-rails', '~> 0.2.4'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
